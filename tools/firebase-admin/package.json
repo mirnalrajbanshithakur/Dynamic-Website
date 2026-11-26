@@ -1,0 +1,14 @@
+{
+  "name": "mirnal-firebase-admin-setup",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "set-admin": "node set-admin.mjs"
+  },
+  "dependencies": {
+    "firebase-admin": "^13.0.0"
+  }
+}
